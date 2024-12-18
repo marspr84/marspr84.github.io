@@ -210,7 +210,7 @@ sections:
     id: research
     content:
       title: Research
-      subtitle: 'R1'
+      subtitle: ''
       text: 'My research is xxx'
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
