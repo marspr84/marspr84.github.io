@@ -1,6 +1,10 @@
 ---
 # Display name
 title: Chien Shiung Wu
+redirect_from: 
+  - /about/
+  - /about.html
+  - /intro/
 
 # Name pronunciation (optional)
 name_pronunciation: '' # Chien Shiung Wu
@@ -32,6 +36,9 @@ interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
+
+skills:
+  - Python, MATLAB, R, Julia, SQL
 
 # Education to show in About widget
 education:
@@ -86,31 +93,31 @@ education:
   #       icon: camera-retro
   #       icon_pack: fas
 
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - layout: horizontal
-    items:
-      - name: Python
-        description: ''
-        icon: python
-        icon_pack: fab
-      - name: Matlab
-        description: ''
-        icon: square-root-alt
-        icon_pack: fas
-      - name: Julia
-        description: ''
-        icon: code
-        icon_pack: fas
-      - name: R
-        description: ''
-        icon: r-project
-        icon_pack: fab
-      - name: SQL
-        description: ''
-        icon: database
-        icon_pack: fas
+# # Skills
+# # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+# skills:
+#   - layout: horizontal
+#     items:
+#       - name: Python
+#         description: ''
+#         icon: python
+#         icon_pack: fab
+#       - name: Matlab
+#         description: ''
+#         icon: square-root-alt
+#         icon_pack: fas
+#       - name: Julia
+#         description: ''
+#         icon: code
+#         icon_pack: fas
+#       - name: R
+#         description: ''
+#         icon: r-project
+#         icon_pack: fab
+#       - name: SQL
+#         description: ''
+#         icon: database
+#         icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -119,7 +126,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:your-email@example.com" #'/#contact'
+    link: 'mailto:your-email@example.com' #'/#contact'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
