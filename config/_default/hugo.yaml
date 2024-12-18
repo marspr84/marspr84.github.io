@@ -5,10 +5,6 @@
 
 title: Homepage # Website name
 baseURL: 'https://example.com/' # Website URL
-redirect_from: 
-  - /about/
-  - /about.html
-  - /intro/
 
 ############################
 ## LANGUAGE
