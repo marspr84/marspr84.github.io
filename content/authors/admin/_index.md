@@ -1,13 +1,6 @@
 ---
 # Display name
-title: 吳健雄
-permalink: /
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
-  - /intro/
-
+title: ''
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
@@ -16,9 +9,9 @@ name_pronunciation: Chien Shiung Wu
 first_name: Shiung Wu
 last_name: Chien
 
-# Status emoji
-status:
-  icon: ☕️
+# # Status emoji
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -93,29 +86,55 @@ education:
   #       icon: camera-retro
   #       icon_pack: fas
 
-# Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-# social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: '/#contact'
-#   - icon: twitter
-#     icon_pack: fab
-#     link: https://twitter.com/GeorgeCushen
-#     label: Follow me on Twitter
-#     display:
-#       header: true
-#   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-#     icon_pack: fas
-#     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#   - icon: github
-#     icon_pack: fab
-#     link: https://github.com/gcushen
-#   - icon: linkedin
-#     icon_pack: fab
-#     link: https://www.linkedin.com/
+Skills
+For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+skills:
+  - layout: horizontal
+    items:
+      - name: Python
+        description: ''
+        icon: python
+        icon_pack: fab
+      - name: Matlab
+        description: ''
+        icon: square-root-alt
+        icon_pack: fas
+      - name: Julia
+        description: ''
+        icon: code
+        icon_pack: fas
+      - name: R
+        description: ''
+        icon: r-project
+        icon_pack: fab
+      - name: SQL
+        description: ''
+        icon: database
+        icon_pack: fas
+
+Social/Academic Networking
+For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+  For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+  form "mailto:your-email@example.com" or "/#contact" for contact widget.
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: "mailto:your-email@example.com" #'/#contact'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  #   label: Follow me on Twitter
+  #   display:
+  #     header: true
+  - icon: google-scholar #graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai #fas
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/gcushen
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
