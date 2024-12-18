@@ -4,6 +4,11 @@ title: ''
 date: 2022-10-24
 type: landing
 
+redirect_from: 
+  - /about/
+  - /about.html
+  - /intro/
+
 sections:
   - block: hero
     demo: true # Only display this section in the Hugo Blox Builder demo site

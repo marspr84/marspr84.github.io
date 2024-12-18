@@ -1,10 +1,6 @@
 ---
 # Display name
 title: Chien Shiung Wu
-redirect_from: 
-  - /about/
-  - /about.html
-  - /intro/
 
 # Name pronunciation (optional)
 name_pronunciation: '' # Chien Shiung Wu
