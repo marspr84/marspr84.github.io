@@ -47,9 +47,9 @@ footer:
   copyright:
     notice: '© {year} marspr84.'
     license:
-      enable: true
+      enable: false #true
       allow_derivatives: false
-      share_alike: true
+      share_alike: false #true
       allow_commercial: false
 
 # Localization
