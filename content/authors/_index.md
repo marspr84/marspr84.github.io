@@ -8,4 +8,8 @@ cascade:
   _build:
     render: never
     list: always
+redirect_from: 
+  - /about/
+  - /about.html
+  - /intro/
 ---
