@@ -214,7 +214,7 @@ sections:
       text: |
         <div style="line-height:1.3em; margin-bottom:35px;">
           <h2 style="font-size:1.3em; margin-bottom:0.5em; font-weight:bold;">Research Overview</h2>
-          <p style="font-size:1.0em;line-height:1.3em;">
+          <p style="font-size:0.9em;line-height:1.2em;">
             My research is xxx,  xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx<br><br>
             <img src="/research/test.png" alt="My Research Image" style="display:block; margin:0 auto; max-width:150px;"><br><br>
             My research directions are significant because xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx xxx
