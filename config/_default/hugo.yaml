@@ -4,7 +4,11 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Homepage # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: 'https://marspr84.github.io/' #'https://example.com/' # Website URL
+redirect_from: 
+  - /about/
+  - /about.html
+  - /intro/
 
 ############################
 ## LANGUAGE
