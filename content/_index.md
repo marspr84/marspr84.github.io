@@ -212,10 +212,14 @@ sections:
       title: Research
       subtitle: ''
       text: |
-        <div style="font-size:1.1em; line-height:1.5em; margin-bottom:35px;">
-          My research is xxx,<br><br>
-          <img src="/research/test.png" alt="My Research Image" style="display:block; margin:0 auto; max-width:150px;"><br><br>
-          and some other work
+        <div style="line-height:1.3em; margin-bottom:35px;">
+          <h2 style="font-size:1.3em; margin-bottom:0.5em;">Research Overview</h2>
+          <p style="font-size:0.8em;">
+            My research is xxx,<br><br>
+            <img src="/research/test.png" alt="My Research Image" style="display:block; margin:0 auto; max-width:150px;"><br><br>
+            My research directions are significant because xxx<br><br>
+            and some other work
+          </p>
         </div>
       
       # Choose how many pages you would like to display (0 = all pages)
