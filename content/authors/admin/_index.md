@@ -37,9 +37,6 @@ interests:
   - Computational Linguistics
   - Information Retrieval
 
-skills:
-  - Python, MATLAB, R, Julia, SQL
-
 # Education to show in About widget
 education:
   courses:
