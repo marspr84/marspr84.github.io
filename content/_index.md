@@ -212,9 +212,11 @@ sections:
       title: Research
       subtitle: ''
       text: |
-        My research is xxx,<br><br>
-        <img src="/research/test.png" alt="My Research Image" style="display:block; margin:0 auto; max-width:200px;"><br><br>
-        and some other work
+        <div style="font-size:1.3em; line-height:1.5em; margin-bottom:30px;">
+          My research is xxx,<br><br>
+          <img src="/research/test.png" alt="My Research Image" style="display:block; margin:0 auto; max-width:150px;"><br><br>
+          and some other work
+        </div>
       
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
