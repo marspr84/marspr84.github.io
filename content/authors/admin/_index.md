@@ -1,6 +1,13 @@
 ---
 # Display name
 title: 吳健雄
+permalink: /
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+  - /intro/
+
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
