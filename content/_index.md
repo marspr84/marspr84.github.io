@@ -211,7 +211,11 @@ sections:
     content:
       title: Research
       subtitle: ''
-      text: 'My research is xxx'
+      text: 
+        "<div style='font-size:1.5em; margin-bottom:20px;'>
+        My research is xxx
+        </div>"
+      
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria

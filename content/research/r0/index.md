@@ -8,11 +8,11 @@ summary: Welcome 👋 We know that first impressions are important, so we've pop
 # Link this post with a project
 projects: []
 
-# Date published
-date: '2020-12-13T00:00:00Z'
+# # Date published
+# date: '2020-12-13T00:00:00Z'
 
-# Date updated
-lastmod: '2020-12-13T00:00:00Z'
+# # Date updated
+# lastmod: '2020-12-13T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -30,15 +30,14 @@ image:
 
 authors:
   - admin
-  - 吳恩達
 
 tags:
   - Academic
-  - 开源
+  - open source
 
 categories:
   - Demo
-  - 教程
+  - Tutorial
 ---
 
 ```python
